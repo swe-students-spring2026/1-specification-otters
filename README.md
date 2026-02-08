@@ -52,10 +52,16 @@ To provide NYU students and faculty a simple and centralized mobile app that sho
 4. As a restaurant, I want to list multiple discounted items with real-time availability, so students can order and pick them up before closing and I can reduce end-of-day food waste.
 5. As a student user, I want to filter discounted items by distance, price, and pickup time, so I can quickly find deals that fit my schedule and location.
 6. As a student user, I want to receive notifications when nearby restaurants add new discounts or increase discounts near closing time, so I do not miss good deals.
-7. 
-8. 
-9. 
-10. 
+7. As an NYU student, I want to see all nearby restaurants offering student discounts so that I can save money on meals.
+8. As an NYU student, I want to quickly find the nearest discount around Bobst so that I can save time deciding where to eat.
+9. As an NYU student, I want to view discount details before going to a restaurant so that I know exactly what I’m getting.
+10. As an NYU student, I want to see specific discounted items rather than mystery offers so that I can choose food I actually want.
+11. As an NYU student, I want to pay at the restaurant instead of pre-paying in the app so that using discounts feels frictionless.
+12. As an NYU student, I want to discover new restaurants near campus so that I don’t always eat at the same places.
+13. As an NYU student, I want discounts to be clearly labeled as student discounts so that don't feel like I'm guessing everytime I ask for them at the register.
+14. As an NYU student, I want to filter restaurants by distance so that I don’t have to walk too far for a deal and can focus on my work.
+15. As a restaurant owner, I want students to easily see that we offer a discount so that staff don’t need to explain it repeatedly.
+16. As a restaurant owner, I want students to easily know our current discount so that we can encourage students to come midweek for lunch when we are less busy.
 
 See instructions. Delete this line and place a list of your User Stories here.
 
