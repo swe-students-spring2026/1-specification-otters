@@ -33,7 +33,14 @@ To provide NYU students and faculty a simple and centralized mobile app that sho
 ## User Requirements
 1. As a student user, I want to view nearby restaurants and markets that offer discounts or special deals on specific food items, so I can quickly choose a convenient location and know exactly what I am purchasing before pickup. 
 2. As a restaurant user, I want to easily create, update, and remove discounted or promotional items, so I can quickly manage frequently changing offers without unnecessary manual effort.
-3. As a student user, I want to reserve or order discounted and promotional items, including coupons, so I can secure the deal, apply the discount at checkout, and pick up my order later before the items sell out.
+3. As a student user, I want to reserve or order discounted and promotional items, including coupons, so I can secure the deal, apply the discount at checkout, and pick up my order later before the items sell out. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 See instructions. Delete this line and place a list of your User Stories here.
 
