@@ -60,7 +60,7 @@ As a result, our primary and sole user is now the NYU student, and the applicati
 
 ## Product Vision Statement
 
-The product provides NYU students and faculty with a simple mobile app for discovering nearby restaurants offering student discounts, allowing users to reserve discounted items and pick them up conveniently while saving money and discovering new places. Restaurants do not need to actively configure the app, as they automatically receive order confirmations from the system.
+The product is a simple mobile app that helps NYU students and faculty discover nearby restaurants with student discounts, reserve discounted items, and pick them up conveniently. Restaurants are notified automatically when an order is placed.
 
 ## User Requirements
 1. As a student user, I want to view nearby restaurants and markets that offer discounts or special deals on specific food items, so I can quickly choose a convenient location and know exactly what I am purchasing before pickup. 
