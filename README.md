@@ -10,14 +10,14 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 
 ## Stakeholders
-# Derrick Li - Hashi Market<br>
+### Derrick Li - Hashi Market<br>
 **Restuarant Goals** <br>
 Hashi Market already offers end-of-day discounts on ready-to-go products and provides student discounts, showing a clear effort to reduce food waste while remaining affordable. With multiple locations and an active social media presence, the brand is well positioned to attract student customers. A key overarching goal is to further minimize food waste while maintaining operational efficiency.
 
 **Restaurant Failures**<br>
 Despite these efforts, Hashi Market faces several operational challenges. Discounts are currently applied manually, which is time-consuming and limits scalability, especially during busy periods. The lack of an automated system also makes it difficult to quickly adjust or toggle discount codes on and off. Additionally, hiring remains a challenge, creating operational strain that indirectly affects waste reduction efforts.
 
-# Noelia Yang - NYU Student<br?>
+### Noelia Yang - NYU Student<br>
 **Student Goals**
 Students actively notice restaurant window signage and advertisements that highlight student discounts. When a deal is clearly communicated and offers real value, students are likely to take advantage of it. Convenience is a major priority. Students prefer restaurants that are close to campus and easily accessible around Washington Square, especially those that fit naturally into their daily routines.
 
@@ -31,6 +31,9 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 To provide NYU students and faculty a simple and centralized mobile app that shows nearby restaurants offering student discounts, making it easier to budget and find new places.
 
 ## User Requirements
+1. As a student user, I want to view nearby restaurants and markets that offer discounts or special deals on specific food items, so I can quickly choose a convenient location and know exactly what I am purchasing before pickup. 
+2. As a restaurant user, I want to easily create, update, and remove discounted or promotional items, so I can quickly manage frequently changing offers without unnecessary manual effort.
+3. As a student user, I want to reserve or order discounted and promotional items, including coupons, so I can secure the deal, apply the discount at checkout, and pick up my order later before the items sell out.
 
 See instructions. Delete this line and place a list of your User Stories here.
 
