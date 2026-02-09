@@ -18,7 +18,7 @@ A little exercise to get started with the specification phase of the software de
 ## Stakeholders
 
 
-Primary Users- NYU Students
+Primary Users- NYU Students, Restaurants
 
 ### Charlie Burke - NYU Student<br>
 Budget-Constrained Commuter Student
