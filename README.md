@@ -48,6 +48,7 @@ From our interviews, we realized we needed to pivot from our original idea of a 
 This was for two reasons. Firstly, many restaurants near NYU have little to no food waste and the restaurants that do have any waste already use platforms such as TooGoodToGo. The second reason was that many students wanted predictability and clarity. They don't want specific item discounts and they want to have a bit more clarity going into the day where they can get a good deal near Bobst rather than have to wait for sporadic notifications. 
 
 As a result, our primary and sole user is now the NYU student, and the application is designed to help them quickly and easily discover nearby student discounts.
+
 **Goals**<br>
 1. Quickly find student discounts near campus.
 2. Save money on everyday meals.
@@ -65,23 +66,18 @@ As a result, our primary and sole user is now the NYU student, and the applicati
 A mobile app that helps NYU students quickly discover nearby restaurants offering student discounts, view the discount details, and navigate to the best option based on distance and preference.
 
 ## User Requirements
-1. As a student user, I want to view nearby restaurants and markets that offer discounts or special deals on specific food items, so I can quickly choose a convenient location and know exactly what I am purchasing before pickup. 
-2. As a system, I want to automatically generate and send order confirmations to restaurant owners, so that orders can be printed and prepared without the restaurant needing to manage or configure the app.
-3. As a student user, I want to reserve or order discounted and promotional items, including coupons, so I can secure the deal, apply the discount at checkout, and pick up my order later before the items sell out. 
-4. As a system, I want to maintain and display multiple discounted items per restaurant with up-to-date availability, so students can reserve items before closing and restaurants can reduce end-of-day food waste without manual app management.
-5. As a student user, I want to filter discounted items by distance, price, and pickup time, so I can quickly find deals that fit my schedule and location.
-6. As a student user, I want to receive notifications when nearby restaurants add new discounts or increase discounts near closing time, so I do not miss good deals.
-7. As an NYU student, I want to see all nearby restaurants offering student discounts so that I can save money on meals.
-8. As an NYU student, I want to quickly find the nearest discount around Bobst so that I can save time deciding where to eat.
-9. As an NYU student, I want to view discount details before going to a restaurant so that I know exactly what I’m getting.
-10. As an NYU student, I want to see specific discounted items rather than mystery offers so that I can choose food I actually want.
-11. As an NYU student, I want to pay at the restaurant instead of pre-paying in the app so that using discounts feels frictionless.
-12. As an NYU student, I want to discover new restaurants near campus so that I don’t always eat at the same places.
-13. As an NYU student, I want discounts to be clearly labeled as student discounts so that don't feel like I'm guessing everytime I ask for them at the register.
-14. As an NYU student, I want to filter restaurants by distance so that I don’t have to walk too far for a deal and can focus on my work.
-15. As a restaurant owner, I want students to easily see that we offer a discount so that staff don’t need to explain it repeatedly.
-16. As a restaurant owner, I want students to easily know our current discount so that we can encourage students to come midweek for lunch when we are less busy.
-
+1. As an NYU student, I want to see nearby restaurants that offer student discounts so that I can save money on meals.
+2. As an NYU student, I want to quickly find the nearest discount around Bobst so that I can save time deciding where to eat.
+3. As an NYU student, I want to view discount details before going to a restaurant so that I know exactly what I’m getting.
+4. As an NYU student, I want to see specific discounted items rather than mystery offers so that I can choose food I actually want.
+5. As an NYU student, I want discounts to be clearly labeled as student discounts so that I don’t feel awkward asking at the register.
+6. As an NYU student, I want to filter restaurants by distance so that I don’t have to walk too far for a deal.
+7. As an NYU student, I want to filter discounts by time of day so that I can find deals that fit into my schedule.
+8. As an NYU student, I want to discover new restaurants near campus so that I don’t always eat at the same places.
+9. As an NYU student, I want the app to show only restaurants near campus so that the information feels relevant and useful.
+10. As an NYU student, I want the app to be simple and fast to use so that finding a discount doesn’t feel like extra work.
+11. As a student user, I want to reserve or order discounted and promotional items, including coupons, so I can secure the deal and pick up my order later before the items sell out.
+12. As a student user, I want to view nearby restaurants and markets that offer discounts or special deals on specific food items, so I can quickly choose a convenient location and know exactly what I am purchasing before pickup.
 
 ## Activity Diagrams
 **User Story:**  
