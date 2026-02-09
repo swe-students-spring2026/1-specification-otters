@@ -88,5 +88,6 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-**[Clickable Prototype] (https://www.figma.com/proto/JxEQS6iTELe9u8KcojCFyC/Otters---Wireframe---Prototype?node-id=23-3&p=f&t=4Mx8STc7zvDBF5pH-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3):**  
+**[Clickable Prototype](https://www.figma.com/proto/JxEQS6iTELe9u8KcojCFyC/Otters---Wireframe---Prototype?node-id=23-3&p=f&t=4Mx8STc7zvDBF5pH-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3):** <br>
+Link To Prototype: 
 https://www.figma.com/proto/JxEQS6iTELe9u8KcojCFyC/Otters---Wireframe---Prototype?node-id=23-3&p=f&t=4Mx8STc7zvDBF5pH-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3
