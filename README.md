@@ -1,12 +1,18 @@
-# Specification Phase Exercise
+#  Specification Phase Exercise
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
+## APP name 
+
+
 ## Team members
 
-Ethan Demol - https://github.com/ethandemol<br>
-Kyle Chen - https://github.com/KyleC55<br>
 
+[Ethan Demol](https://github.com/ethandemol)
+[Kyle Chen](https://github.com/KyleC55)
+[Angelina Wu](https://github.com/your-username)
+[]()
+[]()
 
 
 ## Stakeholders
