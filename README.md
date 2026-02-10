@@ -131,6 +131,21 @@ Given that they already offer the NYU 10% discount and they have little food was
 - Low motivation to implement complex discount systems; as a high-volume deli, they prioritize transaction speed over marketing.
 - Lack of a clear value proposition or loyalty incentive, making students view them as a last resort.
 
+
+### Suki - Restaurant Stakeholder<br>
+Restaurant Staff / Owner Perspective<br>
+
+**Restaurant Goals**<br>
+- Promote student deals through flyers and advertising through social media.
+- Keep daily prepared food waste low.
+- Track sales at the end of the day through the existing ordering app.
+- Use a simple verification method and student ID is comfortable enough.
+
+**Restaurant Problem**<br>
+- Student discounts may reduce normal profits, and normal customers might be turned away by long lines caused by students.
+- Biggest hurdle: students may wait until the last hour to order food, making it harder to close and clean on time.
+- The restaurant already has a reliable ordering system app.
+
 ### Butter<br>
 
 
