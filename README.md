@@ -11,6 +11,7 @@ Campus Bites
 [Ethan Demol](https://github.com/ethandemol) <br>
 [Kyle Chen](https://github.com/KyleC55)<br>
 [Angelina Wu](github.com/TangelinaWu)<br>
+[Zheqi Zhang](https://github.com/zheqi111)<br>
 [Karen Maza Delgado](https://github.com/KarenMazaDelgado)<br>
 []()<br>
 []()<br>
