@@ -92,6 +92,20 @@ Discount Hunter
 
 
 
+### Samuel Zheng - GCSU Student<br>
+Budget Conscious
+
+**Student Goals**<br>
+- Find restaurants near campus through social media and through classmates.
+- Mostly go to staple areas/restaurants, and only try somewhere new about 10% of the time.
+- Only choose places that are within about a 30 minute walk.
+
+**Student Problem**<br>
+- When restaurants offer a student discount, he doesn’t make much note of the actual price because competition makes prices feel similar.
+- He has never used these services before.
+- The biggest friction point is telling the cashier you’re trying to use a discount.
+
+
 ### Hashi Market<br>
 **Restuarant Goals** <br>
 Hashi Market already offers end-of-day discounts on ready-to-go products and provides student discounts, showing a clear effort to reduce food waste while remaining affordable. With multiple locations and an active social media presence, the brand is well positioned to attract student customers. A key overarching goal is to further minimize food waste while maintaining operational efficiency.
