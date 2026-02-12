@@ -142,8 +142,6 @@ Budget Conscious
 
 
 ### Suki - Restaurant Stakeholder<br>
-Restaurant Staff / Owner Perspective<br>
-
 **Restaurant Goals**<br>
 - Promote student deals through flyers and advertising through social media.
 - Keep daily prepared food waste low.
